@@ -62,7 +62,7 @@
                     <input type="text" id="n2" placeholder="Enter N2" name="n2" value="<?php echo $n2;?>">
                     <small><?php echo $n2Err;?></small>
                 </div>
-                <button type="submit" name="submit" value="Submit">Add</button>
+                <button type="submit" name="submit" value="Submit">Check</button>
             </form>
         </div>
         
